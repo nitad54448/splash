@@ -1,2 +1,2 @@
 # splash
-gif splash window
+This is a simple animated gif splash window. It requires some Open G file libraries.
